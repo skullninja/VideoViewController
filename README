@@ -1,0 +1,5 @@
+
+
+Base Controller that enables image processing of live full screen video.
+
+Also a trig helper function.
